@@ -4,7 +4,7 @@ const Nurse = () => {
   return (
     <div className="nurseSection">
       <div className="nurseImage section">
-        <img src ="images/about-img.jpg"/>
+        <img src ="treatmentimages/ICU.webp"/>
       </div>
 
       <div className="rightColumn section">

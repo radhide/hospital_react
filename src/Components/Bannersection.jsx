@@ -5,13 +5,16 @@ const Bannersection = () => {
     <div className="bannerSection">
       <div className="bannerLeft banner">
         <div className="title">
-            <span>MICO</span>
+            <span>MOON</span>
             <h1>HOSPITAL</h1>
         </div>
-      <p>when looking at its layout. The point of 
-        using Lorem Ipsum is that it<br/> has a
-         more-or-less normal distribution of letters, 
-      as opposed to</p>
+      <p>our highly experienced staff knows exactly
+        how to assist international<br/> patients like yourself
+        we go extra mile to not only provide treatment
+        but also undivided attention and care 
+      <br/> 
+          
+      </p>
 
         <div className="contactBtn">
           <button>contact us</button>
@@ -19,7 +22,7 @@ const Bannersection = () => {
       </div>
       
       <div className="bannerRight banner">
-        <img src ="images/slider-img.jpg"/>
+        <img src ="treatmentimages/picture2.jpg"/>
       </div>
     </div>
   )

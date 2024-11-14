@@ -78,7 +78,7 @@ const Treatment = () => {
         </div>
       <div>
         <div className="sideImage">
-            <img src="images/treatment-side-img.jpg"/>
+            <img src="treatmentimages/9.jpg"/>
         </div>
         {/* <div>
             <h2>Nephrologist Care</h2>
