@@ -2,7 +2,7 @@ import React from 'react'
 
 const Booking = () => {
   return (
-    <div className="bookingSection">
+    <div className="bookingSection extraCode">
       <div className="bookingTitle">
         <h1><span>BOOK</span>
             APPOINTMENT
